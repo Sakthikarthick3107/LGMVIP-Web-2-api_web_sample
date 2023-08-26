@@ -46,7 +46,7 @@ function App() {
 
   return (
     <ThemeProvider theme = {Theme}>
-    <div className="App" style={{backgroundColor:"#616161" , height:"100vh" ,backgroundSize:'cover'}}>
+    <div className="App" style={{backgroundColor:"#616161" , height:"150vh" ,backgroundSize:'cover'}}>
       <CssBaseLine/>
       <AppBar>
         <Toolbar>
